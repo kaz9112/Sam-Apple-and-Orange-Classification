@@ -1,0 +1,7 @@
+streamlit
+requests
+numpy
+typing_extensions
+joblib
+scikit-learn==1.0.2
+scikit-image==0.19.2
