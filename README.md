@@ -10,4 +10,4 @@
 
 
 
-Deployment url: https://predict-apple-orange.herokuapp.com/
+Deployment url: https://huggingface.co/spaces/kaz9112/apple-orange-sam
